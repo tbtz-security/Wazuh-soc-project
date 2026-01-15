@@ -2,7 +2,7 @@
 Mini SOC project using Wazuh SIEM for detection, investigation, and incident response
 # 🛡️ Wazuh-Based SOC Project
 
-![SOC Architecture](Wazuh-soc-project/soc_architecture.png)
+![SOC Architecture](screenshots/soc_architecture.png)
 
 ## 📌 Overview
 This project demonstrates a **mini Security Operations Center (SOC)** environment using **Wazuh SIEM**.
