@@ -42,3 +42,14 @@ Logs generated on the victim machine are forwarded to the Wazuh server for analy
 ---
 
 ## 📂 Project Structure
+---
+
+## 📄 Documentation
+Detailed step-by-step documentation is available here:
+👉 [SOC Investigation Report](docs/soc_report.md)
+
+---
+
+## 👤 Author
+**Tijani Olatomiwa David**  
+Cybersecurity
